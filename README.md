@@ -2,7 +2,7 @@
 - 👀 I’m interested in BigData Warehouse,Java/Scala,Python
 - 🌱 I’m currently learning Flink,Spark,Kafka
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vx:xc_xxsc
+- 📫 vx:15122828530
 
 <!---
 Geek-Joey/Geek-Joey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
