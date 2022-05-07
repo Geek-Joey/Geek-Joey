@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Geek-Joey
-- 👀 I’m interested in BigData Warehouse,Java/Scala,Python
-- 🌱 I’m currently learning Flink,Spark,Kafka
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Flink,Spark
 - 📫 vx:15122828530
 
 <!---
